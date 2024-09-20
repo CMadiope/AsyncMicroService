@@ -1,0 +1,12 @@
+/Users/Falcone/Desktop/AsyncMicroService/Shared/bin/Debug/net7.0/Shared.deps.json
+/Users/Falcone/Desktop/AsyncMicroService/Shared/bin/Debug/net7.0/Shared.dll
+/Users/Falcone/Desktop/AsyncMicroService/Shared/bin/Debug/net7.0/Shared.pdb
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.csproj.AssemblyReference.cache
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.AssemblyInfoInputs.cache
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.AssemblyInfo.cs
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.csproj.CoreCompileInputs.cache
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.dll
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/refint/Shared.dll
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/Shared.pdb
+/Users/Falcone/Desktop/AsyncMicroService/Shared/obj/Debug/net7.0/ref/Shared.dll
